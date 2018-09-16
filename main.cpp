@@ -10,7 +10,7 @@ void mainMenu()
 	std::cout << "What would you like to do?\n";
 	std::cout << "Start: s\nShow Total: t\nReset: r\n";
 }
-
+//hi lucas!
 
 int main(){
 
